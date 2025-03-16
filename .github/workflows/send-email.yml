@@ -5,8 +5,8 @@ on:
   workflow_dispatch:
   
   # Or use a schedule (this example runs daily at midnight UTC)
-  # schedule:
-  #   - cron: '0 0 * * *'
+  schedule:
+    - cron: '30 6 * * *'
 
 jobs:
   send-email:
