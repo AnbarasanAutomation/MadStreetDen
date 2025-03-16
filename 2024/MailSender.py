@@ -46,6 +46,6 @@ if __name__ == "__main__":
     # Example usage
     recipient = "itanbarasan@gmail.com"
     subject = "Test Email"
-    content = "This is a test email sent from Python!"
+    content = "This is a test email sent from Github written in Python!"
 
     send_email(recipient, subject, content)
