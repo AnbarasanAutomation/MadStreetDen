@@ -44,7 +44,7 @@ def send_email(recipient_email, subject, body):
 
 if __name__ == "__main__":
     # Example usage
-    recipient = "itanbarasan@gmail.com"
+    recipient = "anbarasan.balagurusamy@innovasolutions.com"
     subject = "Test Email"
     content = "This is a test email sent from Github written in Python!"
 
